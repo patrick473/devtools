@@ -1,6 +1,6 @@
 # Patrick's collection of devtools
 
-This is a collection of tools that I have found useful in my development work.
+This is a collection of tools that I have found.
 
 ## Docker images
 
